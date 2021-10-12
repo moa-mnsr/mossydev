@@ -32,20 +32,18 @@ div.wrapper {
     display: flex; 
     justify-content: center;
 }
+
 section {
-    height: 35rem;
+    height: 100vh;
     margin-top: 5rem;
     width: 50rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
 }
-
-  
 
 h1, h3 {
     font-family: 'terminal_grotesque';
-  
 }
 
 h1 {

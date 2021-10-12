@@ -38,7 +38,8 @@ section {
     width: 50rem;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
+    padding: 3rem 0;
 }
 
 h1, h3 {
